@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   version="1.1"
+   viewBox="0 0 210 297"
+   id="svg3"
+   sodipodi:docname="48.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.18677371"
+     inkscape:cx="377.46213"
+     inkscape:cy="1801.6455"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3" />
+  <g
+     fill="#f9f9f9"
+     font-family="'Ferro Rosso'"
+     id="g3">
+    <text
+       transform="matrix(27.505936,0,0,31.351196,-1303.3295,-3629.6922)"
+       x="47.580101"
+       y="126.21247"
+       font-size="14.111px"
+       stroke-width="0.26458"
+       style="line-height:0.3;white-space:pre;inline-size:49.09"
+       xml:space="preserve"
+       id="text1"><tspan
+         x="47.580101"
+         y="126.21247"
+         id="tspan2">48</tspan></text>
+    <text
+       transform="scale(.26458)"
+       font-size="53.333px"
+       style="line-height:0.3;shape-inside:url(#rect2);text-orientation:auto;white-space:pre"
+       xml:space="preserve"
+       id="text2" />
+    <text
+       transform="scale(.26458)"
+       font-size="85.333px"
+       style="line-height:0.3;shape-inside:url(#rect3);text-orientation:auto;white-space:pre"
+       xml:space="preserve"
+       id="text3" />
+  </g>
+</svg>
